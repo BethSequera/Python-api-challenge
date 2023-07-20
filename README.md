@@ -1,4 +1,4 @@
-# Python-api-challenge
+# Python-API-Challenge
 # Weather Analysis and Vacation Planning
 
 ## Introduction
